@@ -1,4 +1,4 @@
-#Scfrapy Parser
+# Scrapy Parser
 
 Для отдельной категории есть свой Spider класс.
 Чтобы запустить парсинг, введите команду scrapy crawl <имя_класса_Spider> -O <имя_json_файла>
